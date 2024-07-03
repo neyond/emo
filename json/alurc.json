@@ -1,0 +1,382 @@
+{
+   "name": "阿鲁日常",
+   "type": "image",
+   "items": [
+      {
+         "key": "01",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/01.webp"
+      },
+      {
+         "key": "02",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/02.webp"
+      },
+      {
+         "key": "03",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/03.webp"
+      },
+      {
+         "key": "04",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/04.webp"
+      },
+      {
+         "key": "05",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/05.webp"
+      },
+      {
+         "key": "06",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/06.webp"
+      },
+      {
+         "key": "07",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/07.webp"
+      },
+      {
+         "key": "08",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/08.webp"
+      },
+      {
+         "key": "09",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/09.webp"
+      },
+      {
+         "key": "10",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/10.webp"
+      },
+      {
+         "key": "11",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/11.webp"
+      },
+      {
+         "key": "12",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/12.webp"
+      },
+      {
+         "key": "13",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/13.webp"
+      },
+      {
+         "key": "14",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/14.webp"
+      },
+      {
+         "key": "15",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/15.webp"
+      },
+      {
+         "key": "16",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/16.webp"
+      },
+      {
+         "key": "17",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/17.webp"
+      },
+      {
+         "key": "18",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/18.webp"
+      },
+      {
+         "key": "19",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/19.webp"
+      },
+      {
+         "key": "20",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/20.webp"
+      },
+      {
+         "key": "21",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/21.webp"
+      },
+      {
+         "key": "22",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/22.webp"
+      },
+      {
+         "key": "23",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/23.webp"
+      },
+      {
+         "key": "24",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/24.webp"
+      },
+      {
+         "key": "25",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/25.webp"
+      },
+      {
+         "key": "26",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/26.webp"
+      },
+      {
+         "key": "27",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/27.webp"
+      },
+      {
+         "key": "28",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/28.webp"
+      },
+      {
+         "key": "29",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/29.webp"
+      },
+      {
+         "key": "30",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/30.webp"
+      },
+      {
+         "key": "31",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/31.webp"
+      },
+      {
+         "key": "32",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/32.webp"
+      },
+      {
+         "key": "33",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/33.webp"
+      },
+      {
+         "key": "34",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/34.webp"
+      },
+      {
+         "key": "35",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/35.webp"
+      },
+      {
+         "key": "36",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/36.webp"
+      },
+      {
+         "key": "37",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/37.webp"
+      },
+      {
+         "key": "38",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/38.webp"
+      },
+      {
+         "key": "39",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/39.webp"
+      },
+      {
+         "key": "40",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/40.webp"
+      },
+      {
+         "key": "41",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/41.webp"
+      },
+      {
+         "key": "42",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/42.webp"
+      },
+      {
+         "key": "43",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/43.webp"
+      },
+      {
+         "key": "44",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/44.webp"
+      },
+      {
+         "key": "45",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/45.webp"
+      },
+      {
+         "key": "46",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/46.webp"
+      },
+      {
+         "key": "47",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/47.webp"
+      },
+      {
+         "key": "48",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/48.webp"
+      },
+      {
+         "key": "49",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/49.webp"
+      },
+      {
+         "key": "50",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/50.webp"
+      },
+      {
+         "key": "51",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/51.webp"
+      },
+      {
+         "key": "52",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/52.webp"
+      },
+      {
+         "key": "53",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/53.webp"
+      },
+      {
+         "key": "54",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/54.webp"
+      },
+      {
+         "key": "55",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/55.webp"
+      },
+      {
+         "key": "56",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/56.webp"
+      },
+      {
+         "key": "57",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/57.webp"
+      },
+      {
+         "key": "58",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/58.webp"
+      },
+      {
+         "key": "59",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/59.webp"
+      },
+      {
+         "key": "60",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/60.webp"
+      },
+      {
+         "key": "61",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/61.webp"
+      },
+      {
+         "key": "62",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/62.webp"
+      },
+      {
+         "key": "63",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/63.webp"
+      },
+      {
+         "key": "64",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/64.webp"
+      },
+      {
+         "key": "65",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/65.webp"
+      },
+      {
+         "key": "66",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/66.webp"
+      },
+      {
+         "key": "67",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/67.webp"
+      },
+      {
+         "key": "68",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/68.webp"
+      },
+      {
+         "key": "69",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/69.webp"
+      },
+      {
+         "key": "70",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/70.webp"
+      },
+      {
+         "key": "71",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/71.webp"
+      },
+      {
+         "key": "72",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/72.webp"
+      },
+      {
+         "key": "73",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/73.webp"
+      },
+      {
+         "key": "74",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/74.webp"
+      },
+      {
+         "key": "75",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/75.webp"
+      },
+      {
+         "key": "76",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/76.webp"
+      },
+      {
+         "key": "77",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/77.webp"
+      },
+      {
+         "key": "78",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/78.webp"
+      },
+      {
+         "key": "79",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/79.webp"
+      },
+      {
+         "key": "80",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/80.webp"
+      },
+      {
+         "key": "81",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/81.webp"
+      },
+      {
+         "key": "82",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/82.webp"
+      },
+      {
+         "key": "83",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/83.webp"
+      },
+      {
+         "key": "84",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/84.webp"
+      },
+      {
+         "key": "85",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/85.webp"
+      },
+      {
+         "key": "86",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/86.webp"
+      },
+      {
+         "key": "87",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/87.webp"
+      },
+      {
+         "key": "88",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/88.webp"
+      },
+      {
+         "key": "89",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/89.webp"
+      },
+      {
+         "key": "90",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/90.webp"
+      },
+      {
+         "key": "91",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/91.webp"
+      },
+      {
+         "key": "92",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/92.webp"
+      },
+      {
+         "key": "93",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/93.webp"
+      },
+      {
+         "key": "94",
+         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/aru/alurc/94.webp"
+      }
+   ]
+}

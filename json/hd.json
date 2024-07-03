@@ -1,0 +1,535 @@
+{
+"name": "黄豆",
+
+"type": "image",
+
+"items": [
+
+{
+
+ "key": "可爱小黄豆_ok",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_ok.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_wink",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_wink.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_亲亲",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_亲亲.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_哦哦哦",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_哦哦哦.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_哭了",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_哭了.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_啊？",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_啊？.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_喜欢",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_喜欢.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_委屈",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_委屈.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_害羞",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_害羞.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_打call",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_打call.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_流汗",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_流汗.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_玫瑰",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_玫瑰.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_生气",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_生气.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_白眼",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_白眼.gif"
+},
+
+{
+
+ "key": "可爱小黄豆_警告",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/可爱小黄豆_警告.gif"
+},
+
+{
+
+ "key": "小黄豆说_一滴也没",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_一滴也没.gif"
+},
+
+{
+
+ "key": "小黄豆说_两个也",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_两个也.gif"
+},
+
+{
+
+ "key": "小黄豆说_也很可爱",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_也很可爱.gif"
+},
+
+{
+
+ "key": "小黄豆说_功德增加",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_功德增加.gif"
+},
+
+{
+
+ "key": "小黄豆说_啊...",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_啊...gif"
+},
+
+{
+
+ "key": "小黄豆说_喜欢",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_喜欢.gif"
+},
+
+{
+
+ "key": "小黄豆说_害怕",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_害怕.gif"
+},
+
+{
+
+ "key": "小黄豆说_心平气和",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_心平气和.gif"
+},
+
+{
+
+ "key": "小黄豆说_您说的对",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_您说的对.gif"
+},
+
+{
+
+ "key": "小黄豆说_指责",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_指责.gif"
+},
+
+{
+
+ "key": "小黄豆说_暗自神伤",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_暗自神伤.gif"
+},
+
+{
+
+ "key": "小黄豆说_激动",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_激动.gif"
+},
+
+{
+
+ "key": "小黄豆说_猫猫流泪",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_猫猫流泪.gif"
+},
+
+{
+
+ "key": "小黄豆说_装傻",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_装傻.gif"
+},
+
+{
+
+ "key": "小黄豆说_达咩",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/小黄豆说_达咩.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_叹气",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_叹气.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_吓昏",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_吓昏.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_和善",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_和善.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_哭哭",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_哭哭.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_喘气",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_喘气.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_嗯？",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_嗯？.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_多喝热水",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_多喝热水.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_害怕",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_害怕.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_忍耐",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_忍耐.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_棒",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_棒.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_没睡好",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_没睡好.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_略略略",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_略略略.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_祈祷",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_祈祷.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_脸红",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_脸红.gif"
+},
+
+{
+
+ "key": "怪怪小黄豆_补钙",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/怪怪小黄豆_补钙.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_你在装什么",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_你在装什么.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_准备咕咕",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_准备咕咕.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_呃呃呃困困",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_呃呃呃困困.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_咻",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_咻.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_哈哈哈哈哈",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_哈哈哈哈哈.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_哈？",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_哈？.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_啊啊啊啊啊",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_啊啊啊啊啊.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_啊啾",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_啊啾.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_啊？？？",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_啊？？？.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_对对对对",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_对对对对.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_慌张",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_慌张.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_慌张否认",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_慌张否认.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_爆哭",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_爆哭.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_谁叫我",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_谁叫我.gif"
+},
+
+{
+
+ "key": "模糊小黄豆_！喜欢",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/模糊小黄豆_！喜欢.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_世界和平",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_世界和平.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_倒莓",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_倒莓.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_呆",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_呆.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_坏心思",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_坏心思.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_寒心",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_寒心.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_小脸通黄",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_小脸通黄.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_彳亍",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_彳亍.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_憋住",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_憋住.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_椒绿",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_椒绿.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_泪洒当场",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_泪洒当场.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_爱",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_爱.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_番茄头",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_番茄头.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_看着你",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_看着你.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_融化啦",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_融化啦.gif"
+},
+
+{
+
+ "key": "炫彩小黄豆_难受",
+
+ "val": "https://gcore.jsdelivr.net/gh/neyond/emo/xhd/炫彩小黄豆_难受.gif"
+}
+
+]
+
+}
