@@ -3,10 +3,6 @@
    "type": "image",
    "items": [
       {
-         "key": "2023",
-         "val": "https://cdn.jsdelivr.net/gh/neyond/emo/xhl/2023.webp"
-      },
-      {
          "key": "doge",
          "val": "https://cdn.jsdelivr.net/gh/neyond/emo/xhl/doge.webp"
       },
